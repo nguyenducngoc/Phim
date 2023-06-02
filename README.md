@@ -20,7 +20,36 @@ Website hoàn chỉnh, tối ưu, cân bằng tải tốt nhất bằng Dj
 + Temp thân thiện, phù hợp xu hướng(5 điểm)
 + Quản lí thông tin bài viết (3 điểm)
 + Trang quản trị đơn giản dễ sử dụng(2 điểm)
+## Phân tích thiết kế hệ thống
+Bước 1: Xác định yêu cầu
 
+Định rõ yêu cầu chức năng và phi chức năng của hệ thống. Ví dụ: Đăng nhập, tìm kiếm phim, xem thông tin phim, xem phim trực tuyến, đánh giá và bình luận phim, v.v.
+Bước 2: Thiết kế cơ sở dữ liệu
+
+Xác định các bảng dữ liệu cần thiết như Bảng Phim, Bảng Người dùng, Bảng Bình luận, v.v.
+Thiết kế mối quan hệ giữa các bảng và quy định khóa ngoại.
+Bước 3: Xác định mô hình dữ liệu
+
+Xác định các mô hình dữ liệu trong Django, tương ứng với các bảng đã thiết kế.
+Bước 4: Thiết kế giao diện người dùng
+
+Tạo các trang mẫu (templates) cho các chức năng như trang chủ, tìm kiếm, xem phim, v.v.
+Xây dựng giao diện người dùng responsive và hấp dẫn sử dụng HTML, CSS và JavaScript.
+Bước 5: Xây dựng hệ thống xử lý
+
+Tạo các view (điều khiển) trong Django để xử lý các yêu cầu từ người dùng.
+Xây dựng các hàm xử lý trong view, lấy dữ liệu từ cơ sở dữ liệu và gửi nó đến các template để hiển thị.
+Bước 6: Xác thực và phân quyền
+
+Cài đặt hệ thống xác thực và phân quyền sử dụng Django Authentication và Authorization để đảm bảo chỉ người dùng đăng nhập mới có thể xem phim và thực hiện các hoạt động khác.
+Bước 7: Tối ưu hóa hiệu suất và bảo mật
+
+Tối ưu hóa truy vấn cơ sở dữ liệu để đảm bảo hiệu suất tốt.
+Áp dụng các biện pháp bảo mật như mã hóa mật khẩu, bảo vệ chống tấn công SQL Injection và Cross-Site Scripting (XSS).
+Bước 8: Kiểm thử và triển khai
+
+Thực hiện kiểm thử chức năng và hiệu suất để đảm bảo hệ thống hoạt động đúng và mượt mà.
+Triển khai hệ thống lên môi trường sản phẩm, chuẩn bị cho việc triển khai thực tế.
 
 
 ## Sprint thứ I ( 8/3/2023 -> 14/3/2023): *Hoàn thành các tác vụ của User*
