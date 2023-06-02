@@ -51,7 +51,7 @@ Cài đặt hệ thống xác thực và phân quyền sử dụng Django Authen
 #### Bước 7: Tối ưu hóa hiệu suất và bảo mật
 
 Tối ưu hóa truy vấn cơ sở dữ liệu để đảm bảo hiệu suất tốt.
-Áp dụng các biện pháp bảo mật như mã hóa mật khẩu, bảo vệ chống tấn công SQL Injection và Cross-Site Scripting (XSS).
+
 
 #### Bước 8: Kiểm thử và triển khai
 
