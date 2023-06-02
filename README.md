@@ -82,7 +82,7 @@ Website hoàn chỉnh, tối ưu, cân bằng tải tốt nhất bằng Dj
 | 6  | Đổ dữ liệu  | 0.5  |
 | 7  | Test Movies  | 0.5  |
 
- ## Sprint thứ V ( 15/4/2023 -> 25/4/2023): *Quản lí thông tin bài viết*
+ ## Sprint thứ V ( 15/4/2023 -> 25/4/2023): *Quản lí thông tin tin tức*
 #### Quản lí thông tin bài viết
 
 | TT  | Công việc | Thời gian thực hiện (giờ) |  Nguyễn Đức Ngọc | Bùi Xuân Ngọc | 
@@ -106,7 +106,8 @@ ____
 | 2  | Sprint thứ 2: Hoàn thiện thông tin Phim | 24  | Thành công lưu trữ thông tin phim |
 | 3  | Sprint thứ 3: Công cụ tìm kiếm | 24  |Hoàn thành công cụ tìm kiếm |
 | 4  | Sprint thứ 4: Thu thập dữ liệu | 24  |Hoàn thành thu thập dữ liệu |
-| 5  | Sprint thứ 5: Quản lí thông tin News | 24  |Thành công lưu trữ thông tin News |
+| 5  | Sprint thứ 5: Quản lí thông tin tin tức | 24  |Thành công lưu trữ thông tin tin tức|
+| 6  | Sprint thứ 6: Cải thiện trải nghiệm người dùng trên website | 24  | |
 
 
               
