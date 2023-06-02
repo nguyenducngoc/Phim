@@ -27,7 +27,7 @@ Website hoàn chỉnh, tối ưu, cân bằng tải tốt nhất bằng Dj
 
 #### Bước 2: Thiết kế cơ sở dữ liệu
 
-Xác định các bảng dữ liệu cần thiết như Bảng Phim, Bảng Người dùng, Bảng Bình luận, v.v.
+Xác định các bảng dữ liệu cần thiết như Bảng Phim, Bảng Người dùng, Bảng Tin tức, v.v.
 Thiết kế mối quan hệ giữa các bảng và quy định khóa ngoại.
 
 #### Bước 3: Xác định mô hình dữ liệu
